@@ -1,4 +1,4 @@
-# Java db4o Assignment
+# Java db4o Basics
 
 ## Overview
 
